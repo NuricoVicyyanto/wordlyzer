@@ -6,9 +6,9 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name='wordlyzer2',  # Nama package yang sesuai dengan folder project
-    packages=['wordlyzer2'],  # Nama folder yang sama dengan 'name'
-    version='0.2',  # Versi pertama dari library
+    name='wordlyzer3',  # Nama package yang sesuai dengan folder project
+    packages=['wordlyzer3'],  # Nama folder yang sama dengan 'name'
+    version='0.3',  # Versi pertama dari library
     license='MIT',  # Lisensi yang digunakan
     description='A simple library for text analysis',  # Deskripsi singkat tentang library
     long_description=long_description,  # Deskripsi panjang dari README.md
