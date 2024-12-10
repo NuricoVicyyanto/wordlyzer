@@ -1,4 +1,4 @@
-# File: wordlyzer.py
+# File: textinfo.py
 
 import re
 from collections import Counter
