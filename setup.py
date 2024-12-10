@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name='wordlyzer',  # Nama package yang sesuai dengan folder project
     packages=['wordlyzer'],  # Nama folder yang sama dengan 'name'
-    version='0.1',  # Versi pertama dari library
+    version='0.2',  # Versi pertama dari library
     license='MIT',  # Lisensi yang digunakan
     description='A simple library for text analysis',  # Deskripsi singkat tentang library
     long_description=long_description,  # Deskripsi panjang dari README.md

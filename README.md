@@ -7,7 +7,7 @@ Wordlyzer is a powerful Python library for text analysis, providing comprehensiv
 Install Wordlyzer using pip:
 
 ```bash
-pip install wordlyzer==0.1
+pip install wordlyzer==0.2
 ```
 
 ## Features
